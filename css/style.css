@@ -155,17 +155,22 @@ body {
   color: #fff;
 }
 
+.image {
+  display: flex;
+  justify-content: center;
+}
+
 img {
   border: 1px dashed rgb(174, 138, 138);
   cursor: pointer;
   width: 400px;
   height: 200px;
-  transition: all 0.3s ease 0s;
+  transition: all 0.5s ease 0s;
 }
 
 img:hover {
-  transition: all 0.3s ease 0s;
-  transform: scale(2);
+  transition: all 0.5s ease 0s;
+  transform: scale(1.5);
 }
 
 @media (max-width: 1412px) {
