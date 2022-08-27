@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+User-agent: YandexBot
+Disallow:
+Host: https://create-site-one.vercel.app/
+Sitemap: https://create-site-one.vercel.app/satimap.xml
