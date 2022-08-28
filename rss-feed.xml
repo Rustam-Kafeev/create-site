@@ -4,8 +4,8 @@
      xmlns:turbo="http://turbo.yandex.ru"
      version="2.0">
     <channel>       
-        <title>Как создать сайт бесплатно</title>
-        <link>create-site-one.vercel.app</link>
+        <title>Название RSS-канала</title>
+        <link>https://create-site-one.vercel.app/</link>
         <description>Краткое описание канала</description>
         <language>ru</language>
         <turbo:analytics></turbo:analytics>
