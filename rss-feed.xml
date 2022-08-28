@@ -31,30 +31,19 @@
             <turbo:content>
                 <![CDATA[
                     <header>
-                        <h1>Как создать сайт бесплатно</h1>
-                        <h2>Пишем HTML разметку</h2>
-                        <figure>
-                            <img src="https://create-site-one.vercel.app/img/turbo.jpg"/>
-                        </figure>
+                        <h1>Как создать сайт бесплатно</h1>                       
+                       
                         <menu>
                            <a href="https://create-site-one.vercel.app/">Приступить</a>
                         </menu>
                     </header>
+<h2>Пишем HTML разметку</h2>
                   <p> Любая страничка в интернете это HTML. Если у вас windows нажмите правую кнопку мыши и создать файл текстовый. Если вы на MacOs то выберите програмку TextEdit.
 Пишем следующий код в обычном текстовом редакторе. Либо скачайте программу <a href="https://code.visualstudio.com/download" target="_blank">VSCODE</a>. Она абсолютно бесплатная и намного упрощает написание кода.
 </p>
-<pre>
-&lt;!DOCTYPE html&gt;  ⬅️ открываем страницу
-&lt;head&gt; ⬅️ открываем тег для служебной информации
-&lt;title&gt; Ваш простенький сайт &lt;/title&gt;
-&lt;/head&gt; ⬅️ закрываем тег для служебной информации
-&lt;body&gt; ⬅️  Открываем тег (вся видимая часть страницы)
-&lt;h1&gt;Заголовок вашего простенького сайта &lt;/h1&gt;
-&lt;p&gt;Тут будет ваш любой текст&lt;/p&gt;
-&lt;img src="a.jpg" width="600" height="400"&gt; ⬅️ картинка
-&lt;/body&gt; ⬅️ закрываем тег
-&lt;/html&gt; ⬅️ закрываем страницу
-            </pre>
+ <figure>
+                            <img src="https://create-site-one.vercel.app/img/turbo.jpg"/>
+                        </figure>
 <p>
  Сохраняем файл в папку под названием например project. Даем имя файлу index.html. Вы можете дать любое название папке. Выберите любую картинку или фото. Если не можете выбрать вот вам ссылка <a href="https://avatarko.ru/img/kartinka/33/multfilm_lyagushka_32117.jpg" target="_blank">https://avatarko.ru/img/kartinka/33/multfilm_lyagushka_32117.jpg</a>
 Эту ссылку вставляем в тег img в атрибут src="https://avatarko.ru/img/kartinka/33/multfilm_lyagushka_32117.jpg
