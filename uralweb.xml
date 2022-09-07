@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<resource>
+		<name>create-site-one.vercel.app - Как создать сайт бесплатно</name>
+		<date>06.09.2022 23:59:59</date>
+		<region>Челябинская область</region>
+		<city>Челябинск</city>
+		<description>
+			Вы научитесь создавать сайт, заливать файлы на хостинг и получите домен и все это бесплатно!!!
+		</description>
+		<keywords>создать сайт, создать сайт бесплатно, создать сайт бесплатно самому, где создать сайт, как создать сайт с нуля</keywords>
+		<person>Кафеев Рустам/person>
+		<private>1</private>
+		<phone>+7(904)973-11-80</phone>
+		<address>ул. Кудрявцева 32а</address>
+		<sections>
+			<section>Челябинск</section>
+			<section>Порталы</section>
+		</sections>
+	</resource>
